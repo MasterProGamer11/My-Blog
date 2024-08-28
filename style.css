@@ -1,0 +1,32 @@
+}
+/* Mobile */
+@media only screen and (max-width: 767px) {
+    body {
+      .container {
+        display: block;
+        height: auto;
+      }
+      .main,
+      .side {
+        width: 100%;
+      }
+    }
+  }
+  /* iPad */
+  @media only screen and (min-width: 768px) and (max-width: 1024px) {
+    body {
+      .container {
+        display: block;
+        height: auto;
+      }
+      .main,
+      .side {
+        width: 100%;
+      }
+    }
+  }
+  /* Desktop
+  @media only screen and (min-width: 1025px) {
+    body {
+    }
+  } */
